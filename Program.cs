@@ -10,6 +10,7 @@ namespace Batch2022Placement
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World");
         }
     }
 }
